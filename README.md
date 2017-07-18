@@ -1,2 +1,4 @@
 # Bisnow Interview
-Responses to technical interview questions
+Responses to long-form questions can be found in the `questions` directory.
+
+Code for the technical question can be found in the `app` directory.
