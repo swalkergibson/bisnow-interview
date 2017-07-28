@@ -3,8 +3,6 @@
 
         <script src="/js/vendor/bootstrap.min.js"></script>
 
-        <script src="/js/vendor/lightbox/dist/js/lightbox.min.js"></script>
-
         <script src="/js/main.js"></script>
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
