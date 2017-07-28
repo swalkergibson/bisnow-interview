@@ -8,7 +8,9 @@
     padding-top: 75px;
 }
 
-
+#resultTable {
+    display: none;
+}
 
 
 

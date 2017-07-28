@@ -9,8 +9,15 @@ $(document).ready(function(){
             url: '/contact/index.php',
             data: $('form#contactInformation').serialize(),
             success: function(response){
+                $('#contactInformationInput').val('');
                 ajaxLoader.replaceWith(submitButton);
-            }
+                $('#nameDisplay').text(response.name);
+                $('#emailDisplay').text(response.email);
+                $('#phoneDisplay').text(response.phone);
+                $('#addressDisplay').text(response.address);
+                $('#resultTable').show();
+            },
+            dataType: 'json'
         });
     });
 });
