@@ -12,7 +12,7 @@
           <p>I enjoy spicy food immensely. Thai brings together a balance of spicy, savory, and fragrant that I have yet to find in another cuisine. If I could only eat one type of food for the rest of my life, Thai would be it.</p>
         </div>
       </div>
-<?php require_once(dirname(dirname(__FILE__)) . '/includes/footer.php'); ?>
     </div> <!-- /container -->
+<?php require_once(dirname(dirname(__FILE__)) . '/includes/footer.php'); ?>
 <?php require_once(dirname(dirname(__FILE__)) . '/includes/fragments/end_body.php'); ?>
 <?php require_once(dirname(dirname(__FILE__)) . '/includes/fragments/end_html.php'); ?>

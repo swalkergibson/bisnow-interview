@@ -12,7 +12,7 @@
           <p>Never could you imagine that something so small could be so filling. I have a voracious apetite and I like nearly every type of food, and sushi provides a great opportunity to try a little bit of everything.</p>
         </div>
       </div>
-<?php require_once(dirname(dirname(__FILE__)) . '/includes/footer.php'); ?>
     </div> <!-- /container -->
+<?php require_once(dirname(dirname(__FILE__)) . '/includes/footer.php'); ?>
 <?php require_once(dirname(dirname(__FILE__)) . '/includes/fragments/end_body.php'); ?>
 <?php require_once(dirname(dirname(__FILE__)) . '/includes/fragments/end_html.php'); ?>

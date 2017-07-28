@@ -26,7 +26,7 @@
           </tbody>
         </table>
       </div>
-<?php require_once(dirname(__FILE__) . '/includes/footer.php'); ?>
     </div> <!-- /container -->
+<?php require_once(dirname(__FILE__) . '/includes/footer.php'); ?>
 <?php require_once(dirname(__FILE__) . '/includes/fragments/end_body.php'); ?>
 <?php require_once(dirname(__FILE__) . '/includes/fragments/end_html.php'); ?>

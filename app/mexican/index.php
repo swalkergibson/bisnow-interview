@@ -12,7 +12,7 @@
           <p>I would not be able to trust someone who did not like tacos. My preference is a carne asada street taco from just about any stand in Mexico. Freshly grilled meat with a couple of jalapenos is hard to top.</p>
         </div>
       </div>
-<?php require_once(dirname(dirname(__FILE__)) . '/includes/footer.php'); ?>
     </div> <!-- /container -->
+<?php require_once(dirname(dirname(__FILE__)) . '/includes/footer.php'); ?>
 <?php require_once(dirname(dirname(__FILE__)) . '/includes/fragments/end_body.php'); ?>
 <?php require_once(dirname(dirname(__FILE__)) . '/includes/fragments/end_html.php'); ?>
