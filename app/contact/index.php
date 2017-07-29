@@ -1,5 +1,9 @@
 <?php
 
+require_once(dirname(dirname(__FILE__)) . '/includes/libraries/parse.php');
+
+$parse = new Parse($_POST['contactInformation']);
+
 $response = array(
     'name' => 'Shane Gibson',
     'address' => '2607 S. Jentilly Ln.',
